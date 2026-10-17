@@ -141,6 +141,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Kaggle Datasets](https://www.kaggle.com/datasets) – Public datasets for data science projects.
 - [UCI ML Repository](https://archive.ics.uci.edu/ml/) – Classic datasets for ML research.
+- [NutriGraphAPI](https://nutrigraphapi.com/docs) – Nutritional and ingredient analysis API providing food composition data, barcode lookups, and allergen detection.
 - [OpenML](https://www.openml.org/) – Open datasets and benchmarks for ML experiments.
 - [Google Dataset Search](https://datasetsearch.research.google.com/) – Search engine for public datasets.
 - [World Bank Open Data](https://data.worldbank.org/) – Global development and economic data.
