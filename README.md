@@ -144,6 +144,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [OpenML](https://www.openml.org/) – Open datasets and benchmarks for ML experiments.
 - [Google Dataset Search](https://datasetsearch.research.google.com/) – Search engine for public datasets.
 - [World Bank Open Data](https://data.worldbank.org/) – Global development and economic data.
+- [Datacircle](https://datacircle.dev) – Benchmarks of GTM data APIs, with an open API at api.datacircle.dev/v1 and no key.
 
 ## Learning Resources
 
